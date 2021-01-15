@@ -1,15 +1,8 @@
-# Unity Prototype Template
-## How to use:
-1. Go to project folder
+# Persistant data with swords and shovels.
 
-2. Clone
+Used scriptable objects to save player data. (max health, levels, etc.)
 
-3. Rename Folder (UnityPrototype -> Tankz)
-
-4. in the folder, remove git (rm -fr ./Tankz/.git)
-
-5. Start a new git repo (git init)
-
+Then used Json ultility and Player prefs to make data persistant in build.
 
 Unity prototype
 
